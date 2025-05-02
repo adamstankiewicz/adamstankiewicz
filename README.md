@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **adamstankiewicz/adamstankiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![adamstankiewicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamstankiewicz)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋 I'm Adam
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adamstankiewicz)](https://git.io/streak-stats)
+I'm a product-minded full-stack software engineer with a strong focus on frontend development, design systems, and human-centered design. I enjoy solving complex problems with elegant, scalable solutions and love working at the intersection of user experience and engineering.
+
+- 🛠️ Led frontend architecture and design systems across large-scale projects, including the open-source Open edX platform used by 50M+ learners worldwide
+- ⚙️ Comfortable across the stack, with a strong emphasis on building intuitive, high-quality user interfaces
+- 🧭 Currently focused on growing as a technical leader and deepening my expertise in interface design and architecture
+- ✈️ Private pilot and aircraft owner (Cessna 172), proud Australian Cattle Dog owner, and passionate about thoughtful product development
+- 💬 Let’s talk about maintainable systems, cross-functional collaboration, or improving developer experience
