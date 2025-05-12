@@ -13,18 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm Adam
+### Hi there! 👋 I'm Adam
 
-I am a **product-minded full-stack software engineer** with over **8 years of experience** in full-stack product development, specializing in **frontend architecture, design systems,** and **user experience**. I thrive on solving complex challenges and delivering scalable solutions that enhance user engagement, particularly within the **edtech space**.
+I am a full-stack software engineer with over 8 years of experience in frontend architecture, design systems, and user experience. I thrive on solving complex challenges and creating impactful solutions, particularly in the edtech space.
 
-### Key Highlights:
-- 🛠️ **Technical Leadership:** Led the frontend architecture for **edX Enterprise**, contributing to the development of a 0-to-1 enterprise learning platform that supports over **1.2 million learners** and generated approximately **$15 million** in additional revenue. My strategic direction has been pivotal in aligning technical solutions with business objectives.
+- 🛠️ **Technical Leadership:** I lead the frontend architecture for edX Enterprise, supporting over 1.2 million learners and promoting frontend architecture best practices within the Open edX community.
 
-- ⚙️ **Design Systems Expertise:** Spearheaded the development of **Paragon**, an open-source design system and React component library for the **Open edX platform**, serving over **50 million learners** globally. Collaborated with designers to deliver accessible and cohesive UI components across **40+ projects**, ensuring a seamless user experience.
+- ⚙️ **Design Systems Expertise:** Developed Paragon, an open-source design system and React component library used in over 40 projects, serving more than 100 million learners. I collaborate closely with designers to ensure our UI components are accessible, user-friendly, and aligned with user needs. I also integrate user feedback and data insights to create experiences that resonate with users.
 
-- 🧭 **Mentorship and Collaboration:** Committed to fostering a collaborative environment, I mentor engineers and promote knowledge sharing through code reviews, pair programming, and cross-functional teamwork. I champion best practices in accessibility and scalable design across the organization.
+- ✈️ **Personal Interests:** I am a private pilot and proud owner of a Cessna 172. I have an Australian Cattle Dog who keeps life interesting, and I was a former member of the U.S. Boomerang Team.
 
-- ✈️ **Personal Interests:** Outside of work, I am a **private pilot** and aircraft owner (Cessna 172), and I take pride in being a dedicated owner of an **Australian Cattle Dog**. These interests inspire my creativity and enhance my approach to thoughtful product development.
-
-### Let’s Connect!
-💬 I am eager to discuss how we can create scalable, maintainable systems that enhance both user and developer experiences. If you're interested in collaborating or sharing insights on frontend architecture, design systems, or product development, feel free to reach out!
+- 💬 **Let's Connect:** I'm eager to discuss creating scalable systems that enhance user and developer experiences. If you're interested in collaborating or sharing insights on frontend architecture, design systems, or product development, feel free to reach out!
